@@ -18,7 +18,7 @@ router.get('/movies', function(req, res, next) {
 });
 
 router.get('/movies/:id', function(req, res, next) {
-// write code here
+  // write your code here
 
   // .then((movieInfo) => {
   //   res.status(201).json({
